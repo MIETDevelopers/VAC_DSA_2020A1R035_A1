@@ -33,6 +33,7 @@ Branch = 'CSE'
 Age = 20                                              
 print(CollegeName)
 
+
 print(type(Age))
 variable = float(input())
 
